@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @scastroc
+- 👋 Hi, I’m Sebastian Castro Contreras
 - 👀 I’m interested in python, web development, cinema and sport.
 - 🌱 I’m currently learning full stack with python django
 - 💞️ I’m looking to collaborate on ...
